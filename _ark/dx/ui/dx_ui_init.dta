@@ -5,6 +5,7 @@
 #ifdef DX_CONSOLE
 #include dx_console.dta
 #endif
+#include dx_fps_counter.dta
 
 #ifndef HX_WII {if {file_exists DX_EVENT_FILE_PATH} {dx_event_dta_reader}} #endif
 

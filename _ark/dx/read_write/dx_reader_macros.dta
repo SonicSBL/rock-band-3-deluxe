@@ -66,6 +66,8 @@
    {dx_read_setting dx_fullcombo_sound}
    {dx_read_setting dx_jurgen_sound}
    {dx_read_setting dx_precise_percent}
+   {dx_read_setting dx_fps_counter}
+   {dx_fps_counter set_visible $dx_fps_counter}
    {dx_read_setting dx_scroll_sound}
    {dx_read_setting dx_song_select_noise}
    {dx_read_setting_with_name dx_whammy_fx_enabled dx_whammy_fx}

@@ -121,7 +121,7 @@
     {{cmd.input label} set width 840}
     {cmd.input set unfocus_on_accept FALSE}
     {cmd.input set_sink $this}
-    {dx_generate_quad_mesh bg.mesh 848 350}
+    {dx_generate_quad_mesh bg.mesh 848 DX_CONSOLE_HEIGHT}
     {bg.mesh set_local_pos 0 0 {/ DX_CONSOLE_HEIGHT -2}}
 
     {new BandLabel log.lbl}
