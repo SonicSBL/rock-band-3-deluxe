@@ -817,7 +817,7 @@ DX_CURRENT_SONG_CLEAR
 {set $dx_fctype both}
 {set $dx_selected_guitar_fx 5}
 {set $dx_streak_counter single}
-{if_else $dx_event_mode
+{if_else #ifdef HX_WII FALSE #else $dx_event_mode #endif
    {do
       {set $dx_current_intro_movie disabled}
       {set $dx_splash_screen FALSE}
