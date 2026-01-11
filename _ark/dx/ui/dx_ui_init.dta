@@ -905,10 +905,6 @@ DX_CURRENT_SONG_CLEAR
       }
    }
 }
-
-{if {! {file_exists DX_SETTINGS_FILE_PATH}}
-   {write_file DX_SETTINGS_FILE_PATH ()}
-}
 #endif
 
 {if {&& {== $dx_detected_platform platform_rpcs3} $dx_admin_mode}
