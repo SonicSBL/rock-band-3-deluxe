@@ -1069,6 +1069,13 @@
 (marchofthepigsfnf (genre industrial))
 (thehandthat_fnf (genre industrial))
 
+; Lost Rock Band DLC Changes
+(behindblueeyes_cover (covered_by "WaveGroup"))
+(brownsugar (covered_by "WaveGroup"))
+(comeasyouare_cover (covered_by "WaveGroup"))
+(wecarealot_cover (covered_by "WaveGroup"))
+
+
 ; Remove RB3 version from song titles
 ;(alright2 (name "Alright"))
 ;(awfulbeautifullife2 (name "Awful Beautiful Life"))

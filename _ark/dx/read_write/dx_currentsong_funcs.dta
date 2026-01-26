@@ -50,7 +50,7 @@
                      {push_back $dx_current_song {sprint "Artist: " $artistvar ", " $yearvar}}
                      {push_back $dx_current_song {sprint "Artist: " $artistvar}}
                   }
-                  {if {&& $dx_mtv_line_album $albumvar}
+                  {if {&& $dx_mtv_line_album_name $albumvar}
                      {push_back $dx_current_song {sprint "Album: " $albumvar}}
                   }
                   {if {&& $dx_mtv_line_genre $genrevar}
@@ -62,7 +62,7 @@
                   {if {&& $dx_mtv_year {! $dx_year_on_one_mtv_line} $yearvar}
                      {push_back $dx_current_song {sprint "Year: " $yearvar}}
                   }
-                  {if {&& $dx_mtv_line_game_origin $sourcevar}
+                  {if {&& $dx_mtv_line_source $sourcevar}
                      {push_back $dx_current_song {sprint "Source: " {localize $sourcevar}}}
                   }
                   {if {&& $authorvar $dx_mtv_line_author}
@@ -80,7 +80,7 @@
                      {push_back $dx_current_song {sprint $artistvar ", " $yearvar}}
                      {push_back $dx_current_song $artistvar}
                   }
-                  {if {&& $dx_mtv_line_album $albumvar}
+                  {if {&& $dx_mtv_line_album_name $albumvar}
                      {push_back $dx_current_song $albumvar}
                   }
                   {if {&& $dx_mtv_line_genre $genrevar}
@@ -92,7 +92,7 @@
                   {if {&& $dx_mtv_year {! $dx_year_on_one_mtv_line} $yearvar}
                      {push_back $dx_current_song $yearvar}
                   }
-                  {if {&& $dx_mtv_line_game_origin $sourcevar}
+                  {if {&& $dx_mtv_line_source $sourcevar}
                      {push_back $dx_current_song {localize $sourcevar}}
                   }
                   {if {&& $dx_mtv_line_author $authorvar}
