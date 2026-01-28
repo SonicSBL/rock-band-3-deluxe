@@ -265,14 +265,17 @@
 
             ;set diffs when mid-setlist and the next song has a valid song_id
             {foreach $entry $icons
-               {{sprint "dx_" $entry "_diff.lbl"} set_token_fmt
-                  {sprint "dx_diff_" {song_mgr rank_tier_for_song {meta_performer song} $entry}}
-               }
-               {if {!= $entry band}
-                  {{sprint "dx_" $entry ".lbl"} set alt_text_color 
-                     {if_else {song_mgr part_plays_in_song {meta_performer song} $entry}
-                        song_diff_color.color
-                        song_grey_color.color
+               {do
+                  ($part {if_else {== $entry real_drum} drum $entry})
+                  {{sprint "dx_" $entry "_diff.lbl"} set_token_fmt
+                     {sprint "dx_diff_" {song_mgr rank_tier_for_song {meta_performer song} $part}}
+                  }
+                  {if {!= $entry band}
+                     {{sprint "dx_" $entry ".lbl"} set alt_text_color 
+                        {if_else {song_mgr part_plays_in_song {meta_performer song} $part}
+                           song_diff_color.color
+                           song_grey_color.color
+                        }
                      }
                   }
                }
