@@ -369,6 +369,27 @@
    }
 }
 #endif
+{func
+   dx_buildversion_label
+   ($label)
+   #ifdef RB3E
+   {do
+      ($name {localize rb3e_name})
+      ($string {localize rb3e_mod_string})
+      ($tag
+         {if_else {rb3e_allowed}
+            {rb3e_build_tag}
+            {localize unknown}
+         }
+      )
+      {$label set_token_fmt stringify
+         {sprint $string "\n" $name " " $tag}
+      }
+   }
+   #else
+   {$label set_token_fmt rb3e_mod_string}
+   #endif
+}
 #include ../world/dx_camera_funcs.dta
 #include ../game/dx_game_funcs.dta
 #include ../game/dx_game_reset_funcs.dta

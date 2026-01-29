@@ -281,23 +281,7 @@
             {$this lbl_maker $lbl -377 216 kTopLeft os_blnk}
          }
          {$lbl set width 1000}
-         {$lbl set_token_fmt rb3e_mod_string}
-         #ifdef RB3E
-         {do
-            ($rb3e_allowed {rb3e_allowed})
-            ($name {localize rb3e_name})
-            ($string {localize rb3e_mod_string})
-            ($tag
-               {if_else $rb3e_allowed
-                  {rb3e_build_tag}
-                  {localize unknown}
-               }
-            )
-            {$lbl set_token_fmt stringify
-               {sprint $string "\n" $name " " $tag}
-            }
-         }
-         #endif
+         {dx_buildversion_label $lbl}
       }
    )
    (dx_now_playing
