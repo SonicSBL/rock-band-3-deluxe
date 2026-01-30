@@ -1224,6 +1224,15 @@ DX_CURRENT_SONG_CLEAR
    )
 }
 #endif
+#ifndef HX_WII
+{do
+   ($path {sprint DX_GAMEDATA_ROOT "dx_version.dta"})
+   ($arr ((version 0) (commit 0)))
+   {set_elem {find $arr version} 1 {localize rb3dx_version}}
+   {set_elem {find $arr commit} 1 {localize rb3dx_commit}}
+   {write_file $path $arr}
+}
+#endif
 #ifdef HX_WII
 {set $debug_mode 1}
 #endif

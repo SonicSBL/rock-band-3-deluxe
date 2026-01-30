@@ -25,10 +25,10 @@
 
                ;unqueue activations until threshold is met for active bots
                {if
-                  {||
-                     $dx_customizer
-                     {&&
-                        {>= {beatmatch num_active_players} $i}
+                  {&&
+                     {>= {beatmatch num_active_players} $i}
+                     {||
+                        $dx_customizer
                         {eval {var {sprint "dx_bot_" $i}}}
                      }
                   }
@@ -49,10 +49,10 @@
             ;activate bots
             {foreach_int $i 1 5
                {if
-                  {||
-                     $dx_customizer
-                     {&&
-                        {>= {beatmatch num_active_players} $i}
+                  {&&
+                     {>= {beatmatch num_active_players} $i}
+                     {||
+                        $dx_customizer
                         {eval {var {sprint "dx_bot_" $i}}}
                      }
                   }
