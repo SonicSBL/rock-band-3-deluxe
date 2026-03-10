@@ -1060,18 +1060,23 @@
 (UGC_5011928 (name "Fire at Will"))
 (UGC_5011975 (name "Thirteen") (artist "Bluefusion (ft. M_80!, Watershed & Wolfblur)"))
 
+; Rock Band 4 changes
+(theseeker (genre hardrock))
+
 ; Rock Band 4 DLC changes
 (highhopes (artist "Panic! at the Disco"))
+(picturesofmatchstickmen (genre psychadelic))
 (rescueme2 (artist "Thirty Seconds to Mars"))
+(stranglehold (genre hardrock))
 (themanwhosoldtheworld (name "The Man Who Sold the World (Unplugged)"))
 (wearefamily (genre disco))
 
 ; Forbidden changes
-(highhopes_fnfestival (artist "Panic! at the Disco"))
+(highhopesfnf (artist "Panic! at the Disco"))
 (iwritesinsfnf (artist "Panic! at the Disco"))
 (lessthan (genre industrial))
 (marchofthepigsfnf (genre industrial))
-(thehandthat_fnf (genre industrial))
+(thehandthatfnf (genre industrial))
 
 ; Lost Rock Band DLC Changes
 (behindblueeyes_cover (covered_by "WaveGroup"))
