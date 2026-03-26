@@ -5428,12 +5428,6 @@
       "Harmonix"
    )
    (game_origin rb3dlc)
-   (name
-      "Smooth (ft. Rob Thomas)"
-   )
-   (artist
-      "Santana"
-   )
    (extra_authoring disc_update)
    (author
       "Harmonix"
@@ -5839,6 +5833,9 @@
       "Harmonix"
    )
    (game_origin rb3dlc)
+   (artist
+      "Stevie Nicks (ft. Tom Petty)"
+   )
    (extra_authoring disc_update)
    (author
       "Harmonix"
@@ -6943,6 +6940,9 @@
    (strings_author
       "Harmonix"
    )
+   (artist
+      "Queen (with David Bowie)"
+   )
    (extra_authoring disc_update)
    (song_length 237272)
    (solo
@@ -6979,6 +6979,9 @@
       "Harmonix"
    )
    (game_origin rb3dlc)
+   (artist
+      "Queen (with David Bowie)"
+   )
    (extra_authoring disc_update)
    (loading_phrase
       "The high note that Freddie Mercury hits (you know the one) is A5, still lower than his highest recorded note of E6."
@@ -7565,9 +7568,6 @@
    )
    (album_track_number 2)
    (extra_authoring disc_update)
-   (loading_phrase
-      "SHOT THROUGH THE HEART / AND YOU'RE TO BLAME / PS3 HAS NO GAMES"
-   )
    (author
       "Harmonix"
    )
@@ -19486,8 +19486,8 @@
    (drum_bank
       "sfx/rb2_kit01_bank.milo"
    )
-   (name
-      "Beautiful (ft. Pharrell & Uncle Charlie Wilson)"
+   (artist
+      "Snoop Dogg (ft. Pharrell & Uncle Charlie Wilson)"
    )
    (genre hiphoprap)
    (song
@@ -19548,8 +19548,8 @@
    (drum_bank
       "sfx/rb2_kit01_bank.milo"
    )
-   (name
-      "Beer for My Horses (ft. Willie Nelson)"
+   (artist
+      "Toby Keith (ft. Willie Nelson)"
    )
    (song
       (vocal_parts 3)
@@ -24492,8 +24492,8 @@
    (drum_bank
       "sfx/rb2_kit01_bank.milo"
    )
-   (name
-      "Drop It Like It's Hot (ft. Pharrell)"
+   (artist
+      "Snoop Dogg (ft. Pharrell)"
    )
    (genre hiphoprap)
    (song
@@ -32342,11 +32342,8 @@
    (drum_bank
       "sfx/rb2_kit01_bank.milo"
    )
-   (name
-      "Livin' at the Corner of Dude & Catastrophe (ft. Brad Sucks)"
-   )
    (artist
-      "MC Frontalot"
+      "MC Frontalot (ft. Brad Sucks)"
    )
    (genre hiphoprap)
    (song
@@ -48673,11 +48670,8 @@
    (drum_bank
       "sfx/rb2_kit01_bank.milo"
    )
-   (name
-      "Liquid Smog (StompBox Remix) (ft. Becca Neun)"
-   )
    (artist
-      "WaveGroup"
+      "WaveGroup (ft. Becca Neun)"
    )
    (extra_authoring disc_update)
 )
@@ -49253,11 +49247,8 @@
    (drum_bank
       "sfx/rb2_kit01_bank.milo"
    )
-   (name
-      "If Trucks Drank Beer (ft. CJ Watson)"
-   )
    (artist
-      "Error 404"
+      "Error 404 (ft. CJ Watson)"
    )
 )
 (UGC_5000990
@@ -50862,10 +50853,10 @@
       "sfx/rb2_kit01_bank.milo"
    )
    (name
-      "Caught (ft. Darren Holden)"
+      "Caught"
    )
    (artist
-      "Steele & Holden"
+      "Steele & Holden (ft. Darren Holden)"
    )
    (extra_authoring disc_update)
 )
@@ -50895,10 +50886,10 @@
       "sfx/rb2_kit01_bank.milo"
    )
    (name
-      "What a Trip (ft. First Be)"
+      "What a Trip"
    )
    (artist
-      "Analogue Revolution"
+      "Analogue Revolution (ft. First Be)"
    )
    (extra_authoring disc_update)
 )
@@ -51635,11 +51626,8 @@
    (drum_bank
       "sfx/rb2_kit01_bank.milo"
    )
-   (name
-      "Bringing Love to the Party (ft. Taryn Murphy)"
-   )
    (artist
-      "Steele & Britton"
+      "Steele & Britton (ft. Taryn Murphy)"
    )
    (genre popdanceelectronic)
 )
@@ -52253,11 +52241,8 @@
    (drum_bank
       "sfx/rb2_kit01_bank.milo"
    )
-   (name
-      "Cheating, Lying, Stealing (ft. David Lang)"
-   )
    (artist
-      "Bang on a Can All-Stars"
+      "Bang on a Can All-Stars (ft. David Lang)"
    )
    (genre prog)
    (extra_authoring disc_update)
@@ -52270,11 +52255,8 @@
    (drum_bank
       "sfx/rb2_kit01_bank.milo"
    )
-   (name
-      "ShadowBang (Head) (ft. Evan Ziporyn)"
-   )
    (artist
-      "Bang on a Can All-Stars"
+      "Bang on a Can All-Stars (ft. Evan Ziporyn)"
    )
    (genre prog)
    (extra_authoring disc_update)
@@ -52287,11 +52269,8 @@
    (drum_bank
       "sfx/rb2_kit01_bank.milo"
    )
-   (name
-      "Yo Shakespeare (ft. Michael Gordon)"
-   )
    (artist
-      "Bang on a Can All-Stars"
+      "Bang on a Can All-Stars (ft. Michael Gordon)"
    )
    (genre prog)
    (extra_authoring disc_update)
@@ -53191,11 +53170,8 @@
    (drum_bank
       "sfx/rb2_kit01_bank.milo"
    )
-   (name
-      "Believing (ft. Julia Wolfe)"
-   )
    (artist
-      "Bang on a Can All-Stars"
+      "Bang on a Can All-Stars (ft. Julia Wolfe)"
    )
    (genre prog)
    (extra_authoring disc_update)
@@ -54114,11 +54090,8 @@
    (drum_bank
       "sfx/rb2_kit01_bank.milo"
    )
-   (name
-      "Right Now Romeo (ft. Blue Morning)"
-   )
    (artist
-      "Mason Douglas"
+      "Mason Douglas (ft. Blue Morning)"
    )
    (extra_authoring disc_update)
 )
@@ -54640,11 +54613,8 @@
    (drum_bank
       "sfx/rb2_kit01_bank.milo"
    )
-   (name
-      "(Do You Wanna Date My) Avatar (ft. Felicia Day)"
-   )
    (artist
-      "The Guild"
+      "The Guild (ft. Felicia Day)"
    )
    (genre popdanceelectronic)
    (song
@@ -55159,7 +55129,10 @@
       "sfx/rb2_kit01_bank.milo"
    )
    (name
-      "Hey Satomi (ft. Justine Skyers)"
+      "Hey Satomi"
+   )
+   (artist
+      "The Bungles (ft. Justine Skyers)"
    )
    (album_name
       "Rules to Rock By"
@@ -56310,11 +56283,8 @@
    (drum_bank
       "sfx/rb2_kit01_bank.milo"
    )
-   (name
-      "High Class Trailer Trash (ft. Randy Bachman)"
-   )
    (artist
-      "Shelly Rastin"
+      "Shelly Rastin (ft. Randy Bachman)"
    )
    (extra_authoring disc_update)
 )
@@ -58062,7 +58032,10 @@
       "sfx/rb2_kit01_bank.milo"
    )
    (name
-      "The History of Execution (ft. Bluefusion)"
+      "The History of Execution"
+   )
+   (artist
+      "Single White Infidel (ft. Bluefusion)"
    )
 )
 (UGC_5004897
@@ -60412,10 +60385,10 @@
       "sfx/rb2_kit01_bank.milo"
    )
    (name
-      "R U Ready for This (ft. Bryan Steele)"
+      "R U Ready for This"
    )
    (artist
-      "Analogue Revolution"
+      "Analogue Revolution (ft. Bryan Steele)"
    )
 )
 (UGC_5005439
@@ -60435,11 +60408,8 @@
    (drum_bank
       "sfx/rb2_kit01_bank.milo"
    )
-   (name
-      "Leap of Faith (ft. Wendy Drown)"
-   )
    (artist
-      "Analogue Revolution"
+      "Analogue Revolution (ft. Wendy Drown)"
    )
 )
 (UGC_5005441
@@ -60459,11 +60429,8 @@
    (drum_bank
       "sfx/rb2_kit01_bank.milo"
    )
-   (name
-      "I Can't Explain It (ft. Bryan Steele)"
-   )
    (artist
-      "Analogue Revolution"
+      "Analogue Revolution (ft. Bryan Steele)"
    )
 )
 (UGC_5005444
@@ -61311,11 +61278,8 @@
 )
 (airplanes
    (game_origin rb3dlc)
-   (name
-      "Airplanes (ft. Hayley Williams)"
-   )
    (artist
-      "B.o.B"
+      "B.o.B (ft. Hayley Williams)"
    )
    (author
       "Harmonix"
@@ -61538,12 +61502,6 @@
 )
 (billionaire
    (game_origin rb3dlc)
-   (name
-      "Billionaire (ft. Bruno Mars)"
-   )
-   (artist
-      "Travie McCoy"
-   )
    (extra_authoring disc_update)
    (upgrade_version 1)
    (rank
@@ -63401,6 +63359,12 @@
 )
 (parrtyfortwo2
    (game_origin rb3dlc)
+   (name
+      "Party for Two (RB3 version)"
+   )
+   (artist
+      "Shania Twain (with Billy Currington)"
+   )
    (author
       "Harmonix"
    )
@@ -64119,12 +64083,6 @@
 )
 (stereohearts
    (game_origin rb3dlc)
-   (name
-      "Stereo Hearts (ft. Adam Levine)"
-   )
-   (artist
-      "Gym Class Heroes"
-   )
    (author
       "Harmonix"
    )
@@ -64216,11 +64174,8 @@
 )
 (tellmesomethinggood
    (game_origin rb3dlc)
-   (name
-      "Tell Me Something Good (ft. Chaka Khan)"
-   )
    (artist
-      "Rufus"
+      "Rufus (ft. Chaka Khan)"
    )
    (album_name
       "Rags to Rufus"
@@ -64695,12 +64650,6 @@
 )
 (youmakemefeel
    (game_origin rb3dlc)
-   (name
-      "You Make Me Feel... (ft. Sabi)"
-   )
-   (artist
-      "Cobra Starship"
-   )
    (author
       "Harmonix"
    )
@@ -66074,11 +66023,8 @@
    (author
       "RockGamer"
    )
-   (name
-      "Fame Is Free (ft. Suela)"
-   )
    (artist
-      "Child of Glass"
+      "Child of Glass (ft. Suela)"
    )
 )
 (UGC_5006558
@@ -66105,7 +66051,10 @@
       "Kariodude"
    )
    (name
-      "Bed Intruder Song (ft. Kelly Dodson)"
+      "Bed Intruder Song"
+   )
+   (artist
+      "Antoine Dodson & The Gregory Brothers (ft. Kelly Dodson)"
    )
 )
 (UGC_5006565
@@ -66194,10 +66143,10 @@
       "RockGamer"
    )
    (name
-      "3 in the Morning (ft. Antonio Cooke)"
+      "3 in the Morning"
    )
    (artist
-      "Teflon Don"
+      "Teflon Don (ft. Antonio Cooke)"
    )
    (album_name
       "3 in the Morning"
@@ -66790,7 +66739,10 @@
       "FreenInGreen"
    )
    (name
-      "Paper (ft. Single White Infidel)"
+      "Paper"
+   )
+   (artist
+      "Bluefusion (ft. Single White Infidel)"
    )
 )
 (UGC_5006968
@@ -66860,7 +66812,10 @@
       "ChartToppers"
    )
    (name
-      "Wha-Chow Theme (ft. ShadyVox)"
+      "Wha-Chow Theme"
+   )
+   (artist
+      "Psyguy (ft. ShadyVox)"
    )
 )
 (UGC_5007104
@@ -67131,11 +67086,8 @@
    (author
       "Rhythm Authors"
    )
-   (name
-      "Looking (Foot in Your Mouth) (ft. The Chance Sisters)"
-   )
    (artist
-      "Analogue Revolution"
+      "Analogue Revolution (ft. The Chance Sisters)"
    )
 )
 (UGC_5007351
@@ -67912,11 +67864,8 @@
    (author
       "RockGamer"
    )
-   (name
-      "Blood Red Rose (ft. Amanda Somerville)"
-   )
    (artist
-      "The Boyscout"
+      "The Boyscout (ft. Amanda Somerville)"
    )
 )
 (UGC_5008056
@@ -68692,11 +68641,8 @@
    (author
       "RockGamer"
    )
-   (name
-      "Still Alive (ft. Sara Quin)"
-   )
    (artist
-      "Jonathan Coulton"
+      "Jonathan Coulton (ft. Sara Quin)"
    )
 )
 (UGC_5008571
@@ -69465,11 +69411,8 @@
    (author
       "RhythmBastard"
    )
-   (name
-      "This Gigantic Robot Kills (ft. MC Bat Commander and Suburban Legends)"
-   )
    (artist
-      "MC Lars"
+      "MC Lars (ft. MC Bat Commander and Suburban Legends)"
    )
 )
 (UGC_5009083
@@ -69616,11 +69559,8 @@
    (author
       "RockGamer"
    )
-   (name
-      "Nemeses (ft. John Roderick)"
-   )
    (artist
-      "Jonathan Coulton"
+      "Jonathan Coulton (ft. John Roderick)"
    )
 )
 (UGC_5009203
@@ -69738,11 +69678,8 @@
    (author
       "ChartToppers"
    )
-   (name
-      "No Shaking (ft. Dapper AJ)"
-   )
    (artist
-      "Bikey"
+      "Bikey (ft. Dapper AJ)"
    )
 )
 (UGC_5009324
@@ -69762,11 +69699,8 @@
    (author
       "OffbeatEntertainment"
    )
-   (name
-      "Animal Instinct (ft. Beta Control)"
-   )
    (artist
-      "Sherryce"
+      "Sherryce (ft. Beta Control)"
    )
 )
 (UGC_5009333
@@ -69882,11 +69816,8 @@
    (author
       "ThatAuthoringGroup"
    )
-   (name
-      "No Holy Man (ft. James LaBrie)"
-   )
    (artist
-      "Eden's Curse"
+      "Eden's Curse (ft. James LaBrie)"
    )
 )
 (UGC_5009451
@@ -69956,11 +69887,8 @@
    (author
       "ChartToppers"
    )
-   (name
-      "I'm Dancing! (ft. Alyce)"
-   )
    (artist
-      "Bikey"
+      "Bikey (ft. Alyce)"
    )
 )
 (UGC_5009510
@@ -70577,11 +70505,8 @@
    (author
       "RockGamer"
    )
-   (name
-      "(I'm the One That's) Cool (ft. Felicia Day)"
-   )
    (artist
-      "The Guild"
+      "The Guild (ft. Felicia Day)"
    )
 )
 (UGC_5010099
@@ -71199,12 +71124,6 @@
    (author
       "OzoneEntertainment"
    )
-   (name
-      "Giant Bombstep: Reloaded (ft. The Giant Bomb Crew)"
-   )
-   (artist
-      "The Hamster Alliance"
-   )
 )
 (UGC_5010649
    (game_origin ugc2)
@@ -71372,6 +71291,12 @@
    (game_origin ugc2)
    (author
       "ThatAuthoringGroup"
+   )
+   (name
+      "I Can Swing My Sword"
+   )
+   (artist
+      "Toby Turner (ft. Terabrite)"
    )
    (extra_authoring disc_update)
    (upgrade_version 1)
@@ -71858,6 +71783,12 @@
    (author
       "FreenInGreen"
    )
+   (name
+      "KITTY!"
+   )
+   (artist
+      "Bluefusion (ft. The Anime Cow)"
+   )
 )
 (UGC_5011346
    (game_origin ugc2)
@@ -71906,6 +71837,12 @@
    (game_origin ugc2)
    (author
       "FreenInGreen"
+   )
+   (name
+      "KITTY! (2x Bass Pedal)"
+   )
+   (artist
+      "Bluefusion (ft. The Anime Cow)"
    )
 )
 (UGC_5011411
@@ -72194,11 +72131,8 @@
    (author
       "ChartToppers"
    )
-   (name
-      "Discord (EuroChaos Mix) (ft. Odyssey)"
-   )
    (artist
-      "Eurobeat Brony"
+      "Eurobeat Brony (ft. Odyssey)"
    )
 )
 (UGC_5011633
@@ -72437,6 +72371,12 @@
    (author
       "FreenInGreen"
    )
+   (name
+      "Thirteen"
+   )
+   (artist
+      "Bluefusion (ft. M_80!, Watershed & Wolfblur)"
+   )
 )
 (UGC_5011994
    (game_origin ugc2)
@@ -72534,11 +72474,8 @@
 )
 (moveslikejagger
    (game_origin blitz)
-   (name
-      "Moves Like Jagger (ft. Christina Aguilera)"
-   )
    (artist
-      "Maroon 5"
+      "Maroon 5 (ft. Christina Aguilera)"
    )
    (author
       "Harmonix"
@@ -72692,11 +72629,8 @@
 )
 (weareyoung
    (game_origin blitz)
-   (name
-      "We Are Young (ft. Janelle Monáe)"
-   )
    (artist
-      "Fun."
+      "Fun. (ft. Janelle Monáe)"
    )
    (encoding latin1)
    (author
@@ -75281,6 +75215,12 @@
    (author
       "ChartToppers"
    )
+   (name
+      "Schizophrenic Seizure"
+   )
+   (artist
+      "Superfluous Motor (ft. Paolo Viteri)"
+   )
 )
 (UGC_5011916
    (game_origin ugc_lost)
@@ -75288,10 +75228,10 @@
       "ChartToppers"
    )
    (name
-      "Luna (NIGHTMARE MODE) (ft. Odyssey)"
+      "Luna (NIGHTMARE MODE)"
    )
    (artist
-      "Eurobeat Brony"
+      "Eurobeat Brony (ft. Odyssey)"
    )
 )
 (UGC_5011923
@@ -75522,6 +75462,17 @@
       (guitar)
    )
    (format 10)
+   (author
+      "Harmonix"
+   )
+)
+(parrtyfortwo
+   (name
+      "Party for Two"
+   )
+   (artist
+      "Shania Twain (with Billy Currington)"
+   )
    (author
       "Harmonix"
    )
@@ -78306,9 +78257,6 @@
       (guitar)
    )
    (format 10)
-   (loading_phrase
-      "SHOT THROUGH THE HEART / AND YOU'RE TO BLAME / PS3 HAS NO GAMES"
-   )
    (author
       "Harmonix"
    )
@@ -79077,11 +79025,6 @@
    )
 )
 (nofun
-   (author
-      "Harmonix"
-   )
-)
-(parrtyfortwo
    (author
       "Harmonix"
    )
