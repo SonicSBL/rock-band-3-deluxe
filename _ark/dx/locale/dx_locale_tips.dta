@@ -268,7 +268,7 @@
 (dx_splash_15 "Shout out RB3Enhanced!")
 #endif
 #else
-(dx_splash_15 "PlayStation 3 has hundreds of games.")
+(dx_splash_15 "RB3Enhanced when?")
 #endif
 (dx_splash_16 "Yes, you can turn off lanes.")
 (dx_splash_17 "The hit window shrinks!")
